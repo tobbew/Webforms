@@ -1,0 +1,19 @@
+﻿.rubrik {
+    color:blue;
+    font-size: 32px;
+}
+
+.felmedd {
+    color: red;
+    font-size: 32px;
+}
+
+.knapp {
+    display:block;
+    margin: 10px;
+}
+
+.resultat {
+    display:block;
+    margin: 10px;
+}
